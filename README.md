@@ -13,6 +13,22 @@ This repository contains a variety of test cases that cover different scenarios 
 - **Defect Tracking and Reporting**
 - **Test Closure**
 
+## Test Case Design Techniques
+
+Test case design techniques are methods used to identify and create test cases. These techniques help testers create a comprehensive set of test cases that cover all possible scenarios and use cases. Here are some brief descriptions of commonly used test case design techniques:
+
+- **Equivalence Partitioning:** This technique involves dividing the input values of a feature into groups or partitions, where each partition is expected to behave in a similar way. Test cases are then created to test each partition, ensuring that the software behaves as expected for all inputs within each partition.
+
+- **Boundary Value Analysis:** This technique involves testing the boundaries of input values, where behavior may change. Test cases are created to test inputs that are just below or above the boundaries, to ensure that the software behaves as expected for these values.
+
+- **Decision Table Testing:** This technique involves creating a table that lists all possible combinations of inputs and their corresponding outputs. Test cases are created to cover all possible combinations of inputs, ensuring that the software behaves as expected for all possible scenarios.
+
+- **State Transition Testing:** This technique involves testing the software behavior as it transitions between different states. Test cases are created to test all possible transitions between states, ensuring that the software behaves as expected for all possible scenarios.
+
+- **Error Guessing:** This technique involves using the tester's intuition and experience to identify potential errors or defects. Test cases are then created to test these potential issues, ensuring that they are addressed before the software is released.
+
+These are just a few examples of the many test case design techniques available. By using a combination of these techniques, testers can create a comprehensive set of test cases that cover all possible scenarios and use cases, helping to ensure that the software is of high quality and meets user expectations.
+
 ## Test Cases Of RFL Best_buy
 ![testcase](https://user-images.githubusercontent.com/44814788/231264935-7aac6085-7afb-4be4-9fdb-cda5ab4f4257.PNG)
 
