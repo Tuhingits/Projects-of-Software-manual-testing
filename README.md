@@ -4,6 +4,15 @@ Welcome to the Manual Testing Repository! This repository is intended to be used
 ## Overview
 This repository contains a variety of test cases that cover different scenarios and use cases for the software application being tested. The test cases are organized into folders based on the features and functionalities being tested. Each folder contains a set of test cases that cover a specific aspect of the software.
 
+## The following is an overview of the manual testing process.
+
+- **Requirements Analysis**
+- **Test Planning**
+- **Test Case Writing**
+- **Test Execution**
+- **Defect Tracking and Reporting**
+- **Test Closure**
+
 ## Test Cases Of RFL Best_buy
 ![testcase](https://user-images.githubusercontent.com/44814788/231264935-7aac6085-7afb-4be4-9fdb-cda5ab4f4257.PNG)
 
