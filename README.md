@@ -41,3 +41,5 @@ These are just a few examples of the many test case design techniques available.
 ## Mind map of symlex VPN
 ![Mindmap of Symlex VPN](https://user-images.githubusercontent.com/44814788/231267298-da1992bc-70b9-46a9-8fee-1e116e126456.JPG)
 
+## Conclusion
+Thank you for using the Manual Testing Repository. We hope that this resource helps you to test the software application thoroughly and identify any issues or bugs that need to be addressed. If you have any questions or feedback, please feel free to contact me.
