@@ -1,3 +1,9 @@
+# Manual Testing Repository
+Welcome to the Manual Testing Repository! This repository is intended to be used for manual testing of various features and functionalities of software applications.
+
+## Overview
+This repository contains a variety of test cases that cover different scenarios and use cases for the software application being tested. The test cases are organized into folders based on the features and functionalities being tested. Each folder contains a set of test cases that cover a specific aspect of the software.
+
 ## Test Cases Of RFL Best_buy
 ![testcase](https://user-images.githubusercontent.com/44814788/231264935-7aac6085-7afb-4be4-9fdb-cda5ab4f4257.PNG)
 
